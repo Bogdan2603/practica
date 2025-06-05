@@ -1,0 +1,87 @@
+/* app/chat/HomePage.module.css */
+
+.pageContainer {
+  /* Fontul principal pentru întreaga pagină de chat */
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  
+  /* Asigură lățimea completă. Înălțimea (100vh) și culoarea de fundal principală
+     sunt setate dinamic prin stiluri inline în page.tsx folosind currentColors.pageBackground */
+  width: 100%;
+
+  /* Am eliminat padding-ul de aici. Padding-ul va fi pe elementele interne:
+     - header-ul din page.tsx are propriul padding inline.
+     - zona de mesaje din page.tsx are propriul padding inline.
+     - formularul de input din page.tsx are propriul padding inline.
+  */
+
+  /* Am eliminat max-width și margin: 0 auto pentru a permite lățimea completă.
+     Dacă dorești în continuare un container centrat cu lățime maximă, dar full-height,
+     poți adăuga înapoi:
+     max-width: 720px;
+     margin: 0 auto;
+     Și te asiguri că în page.tsx, div-ul cu această clasă are height: 100vh.
+  */
+}
+
+/* Stiluri pentru antetul paginii, dacă vrei să le gestionezi de aici */
+.header {
+  /* text-align: center; // Alinierea textului este deja gestionată inline/flex în page.tsx */
+  /* padding-top: 15px; // Padding-ul este gestionat inline în page.tsx */
+  /* padding-bottom: 15px; */
+  /* border-bottom: 1px solid #E2E8F0; // Bordura este gestionată inline cu currentColors.border */
+  /* background-color: #FFFFFF; // Fundalul este gestionat inline cu currentColors.cardBackground */
+}
+
+.title {
+  /* Fontul este deja setat pe .pageContainer, dar poți suprascrie aici dacă e necesar */
+  /* font-family: "Inter", -apple-system, ...; */ 
+  
+  /* Culoarea este setată din currentColors.textTitle prin stil inline în page.tsx,
+     dar putem avea o valoare default aici sau pentru tema deschisă. */
+  color: #1A202C; 
+  font-size: 1.4rem; /* Ajustat pentru a se potrivi cu stilul inline din page.tsx */
+  font-weight: 700;
+  margin-bottom: 0; /* Ajustat */
+  /* letter-spacing: -0.025em; // Poți adăuga dacă dorești */
+}
+
+.subtitle {
+  /* Culoarea este setată din currentColors.textMuted prin stil inline în page.tsx */
+  color: #718096; 
+  font-size: 0.75rem; /* Ajustat */
+  margin-top: 2px;
+  font-weight: 500;
+}
+
+/* Exemplu de cum ai putea stiliza elemente pentru modul întunecat DUPĂ ce
+   clasa 'dark-theme-active' este adăugată pe elementul <html> din page.tsx */
+
+:global(html.dark-theme-active) .title {
+  color: #E6EDF3; /* textTitle din paleta dark mode */
+}
+
+:global(html.dark-theme-active) .subtitle {
+  color: #768390; /* textMuted din paleta dark mode */
+}
+
+/* Poți adăuga aici și alte clase pe care vrei să le muți din stilurile inline.
+   De exemplu, pentru surse, dacă nu vrei să le stilizezi inline: */
+/*
+.sourcesContainer {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  // border-top-color va trebui setat dinamic sau prin variabile CSS în funcție de temă
+}
+
+.sourceItem {
+  font-size: 0.75em;
+  margin-bottom: 6px;
+  padding: 8px 10px;
+  border-radius: 6px;
+  border-width: 1px;
+  border-style: solid;
+  // backgroundColor și borderColor vor trebui setate dinamic sau prin variabile CSS
+}
+*/

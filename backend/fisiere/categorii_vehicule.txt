@@ -1,0 +1,49 @@
+Categoriile de vehicule pentru care se eliberează permisul de conducere, prevăzute la art. 20 alin. (2), se definesc astfel:
+
+a) categoria AM: mopede a căror viteză maximă prin construcţie este mai mare de 25 km/h, dar nu depăşeşte 45 km/h;
+
+b) categoria A1:
+1. motociclete cu cilindree maximă de 125 cm3, cu puterea maximă de 11 kW şi cu un raport putere/greutate de cel mult 0,1 kW/kg;
+2. tricicluri cu motor cu puterea maximă de 15 kW;
+
+c) categoria A2: motociclete cu puterea maximă de 35 kW, cu un raport putere/greutate care nu depăşeşte 0,2 kW/kg şi care nu sunt derivate dintr-un vehicul având mai mult de dublul puterii sale;
+
+d) categoria A: motociclete cu sau fără ataş şi tricicluri cu motor cu puterea de peste 15 kW;
+
+e) categoria B1: cvadricicluri a căror masă în ordine de mers nu depășește 450 kg (600 kg pentru vehiculele destinate transportului de mărfuri) și care sunt echipate cu motor cu ardere internă a cărui putere netă continuă maximă nu depășește 15 kW sau cu motor electric a cărui putere nominală nu depășește 15 kW;
+
+f) categoria B:
+1. autovehiculul a cărui masă totală maximă autorizată nu depăşeşte 3.500 kg şi al cărui număr de locuri pe scaune, în afara conducătorului, nu este mai mare de 8;
+2. ansamblul format dintr-un autovehicul trăgător din categoria B şi o remorcă a cărei masă totală maximă autorizată nu depăşeşte 750 kg;
+3. ansamblul de vehicule a căror masă totală maximă autorizată nu depăşeşte 4.250 kg, format dintr-un autovehicul trăgător din categoria B şi o remorcă a cărei masă totală maximă autorizată depăşeşte 750 kg;
+
+g) categoria BE: ansamblul de vehicule a căror masă totală maximă autorizată depăşeşte 4.250 kg, format dintr-un autovehicul trăgător din categoria B şi o remorcă sau semiremorcă a cărei masă totală maximă autorizată nu depăşeşte 3.500 kg;
+
+h) categoria C1: autovehiculul, altul decât cel din categoria D sau D1, a cărui masă totală maximă autorizată depăşeşte 3.500 kg, dar nu mai mare de 7.500 kg, şi care este proiectat şi construit pentru transportul a maximum 8 pasageri în afară de conducătorul auto. Autovehiculului din această categorie i se poate ataşa o remorcă a cărei masă totală maximă autorizată nu depăşeşte 750 kg;
+
+i) categoria C1E:
+1. ansamblul de vehicule constând dintr-un autovehicul trăgător din categoria C1 şi o remorcă sau semiremorcă a cărei masă totală maximă autorizată este mai mare de 750 kg, cu condiţia ca masa totală maximă autorizată a ansamblului să nu depăşească 12.000 kg;
+2. ansamblurile de vehicule în care vehiculul trăgător face parte din categoria B, iar remorca sau semiremorca sa are o masă totală maximă autorizată de peste 3.500 kg, cu condiţia ca masa totală maximă autorizată a ansamblului să nu depăşească 12.000 kg;
+
+j) categoria C:
+1. autovehiculul, altul decât cele din categoria D sau D1, a cărui masă totală maximă autorizată este mai mare de 3.500 kg şi care este proiectat şi construit pentru transportul a maximum 8 pasageri în afara conducătorului auto;
+2. ansamblul format dintr-un autovehicul din categoria C şi o remorcă a cărei masă totală maximă autorizată nu depăşeşte 750 kg;
+
+k) categoria CE: ansamblul de vehicule constând dintr-un autovehicul trăgător din categoria C şi o remorcă sau semiremorcă a cărei masă totală maximă autorizată este mai mare de 750 kg;
+
+l) categoria D1:
+1. autovehiculul proiectat şi construit pentru transportul a maximum 16 pasageri în afară de conducătorul auto şi a cărui lungime maximă nu depăşeşte 8 m;
+2. ansamblul de vehicule format dintr-un autovehicul trăgător din categoria D1 şi o remorcă a cărei masă totală maximă autorizată nu depăşeşte 750 kg;
+
+m) categoria D1E: ansamblul de vehicule constând dintr-un autovehicul trăgător din categoria D1 şi o remorcă a cărei masă totală maximă autorizată este mai mare de 750 kg. Remorca nu trebuie să fie destinată transportului de persoane;
+
+n) categoria D: autovehiculul destinat transportului de persoane având mai mult de 8 locuri pe scaune, în afara locului conducătorului. Autovehiculului din această categorie i se poate ataşa o remorcă a cărei masă totală maximă autorizată nu depăşeşte 750 kg;
+
+o) categoria DE: ansamblul de vehicule constând dintr-un autovehicul trăgător din categoria D şi o remorcă a cărei masă totală maximă autorizată este mai mare de 750 kg. Remorca nu trebuie să fie destinată transportului de persoane;
+
+p) categoria Tr: tractoare agricole sau forestiere.
+
+r) categoria Tb: troleibuz;
+
+s) categoria Tv: tramvai.
+
